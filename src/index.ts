@@ -1,4 +1,5 @@
 import data from "../samples/data.json";
+// const data = require("../samples/data.json"); // this is the other way of importing a file.
 
 interface Person {
     firstName: string;
